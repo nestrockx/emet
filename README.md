@@ -1,1 +1,1 @@
-# emet
+# Emet - asystent głosowy
